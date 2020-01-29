@@ -1,0 +1,2 @@
+# cursotd
+Ejercicios en clase 
